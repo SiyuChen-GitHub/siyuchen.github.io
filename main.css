@@ -495,7 +495,6 @@ input::placeholder {
   /* background-color: white; */
   padding: 5px;
   margin: 5px 0;
-  margin-bottom: 30px !important; /* Force margin application */
   /* border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
 }
