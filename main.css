@@ -50,7 +50,7 @@ dt {
 h1,
 h2,
 h3 {
-  color: var(--brown) !important;
+  color: var(--brown);
 }
 
 h4,
